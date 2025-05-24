@@ -21,7 +21,7 @@
 <div>
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-4a90e2?style=flat-square&logo=database&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4a90e2?style=flat-square&logo=databricks&logoColor=white)
  
 </div>
 
