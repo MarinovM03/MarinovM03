@@ -14,6 +14,7 @@
  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Handlebars](https://img.shields.io/badge/-Handlebars.js-f0772b?style=flat-square&logo=handlebarsdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
  
 </div>
@@ -28,7 +29,7 @@ I'm **Martin**, a dedicated JavaScript developer with a deep interest in buildin
 - **Languages:** JavaScript (CommonJS, ES6+), HTML5, CSS3 
 - **Frameworks:** ExpressJS
 - **Databases:** MongoDB(Mongoose), Firebase
-- **Tools & Platforms:** Git, GitHub, Playwright, Mocha, Chai
+- **Tools & Platforms:** Git, GitHub, Playwright, Mocha, Chai, Handlebars
 - **Other:** API Integration, RESTful services, Web development best practices
 -  (**MERN**)
 
