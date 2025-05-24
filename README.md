@@ -12,10 +12,16 @@
 
 <div>
  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Handlebars](https://img.shields.io/badge/-Handlebars.js-f0772b?style=flat-square&logo=handlebarsdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+ 
+</div>
+
+<div>
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4a90e2?style=flat-square&logo=database&logoColor=white)
  
 </div>
 
