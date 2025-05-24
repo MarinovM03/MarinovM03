@@ -1,6 +1,6 @@
 <div align="center">
 
- ![Visitor Count](https://komarev.com/ghpvc/?username=vladinson009&color=blue&style=flat-square)
+ ![Visitor Count](https://komarev.com/ghpvc/?username=MarinovM03&color=blue&style=flat-square)
  
 <div>
  
