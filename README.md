@@ -36,6 +36,7 @@ I'm **Martin**, a dedicated JavaScript developer with a deep interest in buildin
 - **Frameworks:** ExpressJS
 - **Databases:** MongoDB(Mongoose), Firebase
 - **Tools & Platforms:** Git, GitHub, Playwright, Mocha, Chai, Handlebars
+- **App Architectures:** Experienced in building both Single Page Applications (SPA) and Multi Page Applications (MPA) using modern JavaScript frameworks and best practices.
 - **Other:** API Integration, RESTful services, Web development best practices
 -  (**MERN**)
 
