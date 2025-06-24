@@ -31,14 +31,21 @@
 
 I'm **Martin**, a dedicated JavaScript developer with a deep interest in building modern, performant web applications. I thrive on writing clean, maintainable code and turning complex ideas into elegant, functional interfaces. I’m always pushing my boundaries by learning new tools, technologies, and best practices to stay ahead in the ever-evolving world of web development.
 
-## 🛠️ Skills & Technologies:
+
+## 🛠️ Skills & Technologies
+
 - **Languages:** JavaScript (CommonJS, ES6+), HTML5, CSS3 
-- **Frameworks:** ExpressJS
-- **Databases:** MongoDB(Mongoose), Firebase
-- **Tools & Platforms:** Git, GitHub, Playwright, Mocha, Chai, Handlebars
-- **App Architectures:** Experienced in building both Single Page Applications (SPA) and Multi Page Applications (MPA) using modern JavaScript frameworks and best practices.
-- **Other:** API Integration, RESTful services, Web development best practices
--  (**MERN**)
+- **App Architectures:** Building both Single Page Applications (SPA) and Multi Page Applications (MPA) using modern JavaScript frameworks and libraries
+- **Frameworks & Libraries:** Express.js, Handlebars
+- **Front-end:** HTML5, CSS3, Handlebars
+- **Back-end:** Node.js, Express.js
+- **Databases:** MongoDB (Mongoose), Firebase
+- **API Development:** Designing and developing robust RESTful services and APIs with Express.js and MongoDB
+- **Testing & Automation:** Playwright, Mocha, Chai
+- **Version Control:** Git, GitHub
+- **Other:** API Integration, Web development best practices
+- **MERN Stack:** Full-stack JavaScript development using MongoDB, Express.js, React, and Node.js
+
 
 
 ## 🌱 Current & Upcoming Studies:
