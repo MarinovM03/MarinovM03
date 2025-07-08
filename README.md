@@ -7,24 +7,25 @@
 ### 🛠️ Tech Stack
 
 #### Languages  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;&nbsp;
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;&nbsp;
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-<br>
+<br><br>
 
 #### Frameworks & Libraries  
-[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)  
-[![Handlebars](https://img.shields.io/badge/-Handlebars.js-f0772b?style=flat-square&logo=handlebarsdotjs&logoColor=white)](https://handlebarsjs.com/)  
+[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/) &nbsp;&nbsp;
+[![Handlebars](https://img.shields.io/badge/-Handlebars.js-f0772b?style=flat-square&logo=handlebarsdotjs&logoColor=white)](https://handlebarsjs.com/) &nbsp;&nbsp;
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-<br>
+<br><br>
 
 #### Databases  
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) &nbsp;&nbsp;
 [![NoSQL](https://img.shields.io/badge/-NoSQL-4a90e2?style=flat-square&logo=databricks&logoColor=white)](https://www.mongodb.com/nosql-explained)
 
 </div>
+
 
 # Welcome to My GitHub Profile! 👋
 
