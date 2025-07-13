@@ -64,8 +64,8 @@ I'm **Martin**, a dedicated JavaScript developer with a deep interest in buildin
 
 ## 🐍 A Snake Eating My Contributions Graph
 	
-<p align = "center">
-	<img src="https://raw.githubusercontent.com/MarinovM03/MarinovM03/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarinovM03/MarinovM03/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 
