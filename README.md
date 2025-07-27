@@ -50,8 +50,8 @@ I'm **Martin**, a dedicated JavaScript developer with a deep interest in buildin
 
 
 ## 🌱 Current & Upcoming Studies:
-- **TypeScript** – Learning advanced typing, generics, and best practices 🏗️
 - **Angular** – Exploring component-based architecture and state management 🎯
+- **TypeScript** – Learning advanced typing, generics, and best practices 🏗️
 - **React** – Deepening knowledge in hooks, performance optimization, and scalable component design ⚛️
 - **DevOps** – Understanding CI/CD, Docker, and cloud deployments ☁️
 
