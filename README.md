@@ -51,6 +51,8 @@ I'm **Martin**, a dedicated JavaScript developer with a deep interest in buildin
 
 ## 🌱 Current & Upcoming Studies:
 - **React** – Deepening knowledge in hooks, performance optimization, and scalable component design ⚛️
+- **HTML** – Semantic structure, accessible forms (ARIA), microdata/SEO, and performance-savvy markup. 🧱
+- **CSS** – Modern layout (Flexbox/Grid), container queries, cascade layers, custom properties, animations, and scalable architecture (BEM/ITCSS). 🎨
 - **TypeScript** – Learning advanced typing, generics, and best practices 🏗️
 - **Angular** – Exploring component-based architecture and state management 🎯
 - **DevOps** – Understanding CI/CD, Docker, and cloud deployments ☁️
