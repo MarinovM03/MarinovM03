@@ -55,7 +55,6 @@ I'm **Martin**, a dedicated JavaScript developer with a deep interest in buildin
 - **React** – Deepening knowledge in hooks, performance optimization, and scalable component design ⚛️
 - **TypeScript** – Learning advanced typing, generics, and best practices 🏗️
 - **Angular** – Exploring component-based architecture and state management 🎯
-- **DevOps** – Understanding CI/CD, Docker, and cloud deployments ☁️
 
 
 ## 📫 How to Reach Me:
