@@ -21,6 +21,7 @@
 
 <div>
 
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![NoSQL](https://img.shields.io/badge/-NoSQL-4a90e2?style=flat-square&logo=databricks&logoColor=white)](https://www.mongodb.com/nosql-explained)
  
