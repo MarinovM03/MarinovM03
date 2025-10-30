@@ -49,7 +49,6 @@ I'm **Martin**, a dedicated JavaScript developer with a deep interest in buildin
 - **MERN Stack:** Full-stack JavaScript development using MongoDB, Express.js, React, and Node.js
 
 
-
 ## 🌱 Current & Upcoming Studies:
 - **React** – Deepening knowledge in hooks, performance optimization, and scalable component design ⚛️
 - **HTML** – Semantic structure, accessible forms (ARIA), microdata/SEO, and performance-savvy markup. 🧱
