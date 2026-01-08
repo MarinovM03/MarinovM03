@@ -72,4 +72,4 @@ I'm **Martin**, a dedicated JavaScript developer with a deep interest in buildin
 </br></br>
 
 
-Thanks for visiting! Feel free to connect — I'm always open to collaboration and building something awesome together. 🚀🚀
+Thanks for visiting! Feel free to connect — I'm always open to collaboration and building something awesome together. 🚀🚀🚀
