@@ -8,7 +8,7 @@ I build thoughtful, full-stack web applications with modern frontend frameworks,
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MarinovM03&color=2563eb&style=flat-square)](https://github.com/MarinovM03)
 [![GitHub](https://img.shields.io/badge/GitHub-MarinovM03-181717?style=flat-square&logo=github)](https://github.com/MarinovM03)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:martin.marinov10@yahoo.com)
+[![Email](https://img.shields.io/badge/Yahoo!-Contact_Me-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:martin.marinov10@yahoo.com)
 
 </div>
 
@@ -35,23 +35,23 @@ I learn best by building, refining, and eventually shipping real projects.
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://react.dev/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)](https://angular.dev/)
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Handlebars](https://img.shields.io/badge/Handlebars-F0772B?style=flat-square&logo=handlebarsdotjs&logoColor=fff)](https://handlebarsjs.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Handlebars](https://img.shields.io/badge/Handlebars-F0772B?style=for-the-badge&logo=handlebarsdotjs&logoColor=fff)](https://handlebarsjs.com/)
 
 ### Backend and Data
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)](https://www.mongodb.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=fff)](https://firebase.google.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=fff)](https://firebase.google.com/)
 
 ### Testing and Development
 
-[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=fff)](https://playwright.dev/)
-[![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=fff)](https://mochajs.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff)](https://playwright.dev/)
+[![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=fff)](https://mochajs.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/)
 
 </div>
 
@@ -101,6 +101,6 @@ Built with **React**, **TypeScript**, **Node.js**, **Express**, and **MongoDB**.
 I'm always interested in learning, collaborating, and building something useful.
 
 [![GitHub](https://img.shields.io/badge/GitHub-MarinovM03-181717?style=for-the-badge&logo=github)](https://github.com/MarinovM03)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martin.marinov10@yahoo.com)
+[![Email](https://img.shields.io/badge/Yahoo!-Send_an_Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:martin.marinov10@yahoo.com)
 
 </div>
