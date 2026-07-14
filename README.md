@@ -1,75 +1,67 @@
 <div align="center">
 
- ![Visitor Count](https://komarev.com/ghpvc/?username=MarinovM03&color=blue&style=flat-square)
- 
-<div>
- 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
- 
-</div>
+# Martin Marinov
 
-<div>
- 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white&cacheBust=1)](https://angular.dev/)
-[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![Handlebars](https://img.shields.io/badge/-Handlebars.js-f0772b?style=flat-square&logo=handlebarsdotjs&logoColor=white)](https://handlebarsjs.com/)
- 
-</div>
+### Full-Stack JavaScript Developer
 
-<div>
+I build modern web applications with **React**, **Angular**, **TypeScript**, and **Node.js**, with a focus on clean architecture, useful features, and thoughtful user experiences.
 
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![NoSQL](https://img.shields.io/badge/-NoSQL-4a90e2?style=flat-square&logo=databricks&logoColor=white)](https://www.mongodb.com/nosql-explained)
- 
-</div>
+[![Profile views](https://komarev.com/ghpvc/?username=MarinovM03&color=2563eb&style=flat-square)](https://github.com/MarinovM03)
 
 </div>
 
-# Welcome to My GitHub Profile! 👋
+## About Me
 
-I'm **Martin**, a dedicated JavaScript developer with a deep interest in building modern, performant web applications. I thrive on writing clean, maintainable code and turning complex ideas into elegant, functional interfaces. I’m always pushing my boundaries by learning new tools, technologies, and best practices to stay ahead in the ever-evolving world of web development.
+- I enjoy turning ideas into complete, responsive applications across the frontend and backend.
+- I care about maintainable code, accessibility, security, testing, and the small UX details that make software pleasant to use.
+- My recent work includes authentication, REST APIs, role-based access, live third-party data, search, learning tools, and administrative dashboards.
+- I learn best by building, refining, and shipping real projects.
 
+## Tech Stack
 
-## 🛠️ Skills & Technologies
+### Languages and Frontend
 
-- **Languages:** JavaScript (CommonJS, ES6+), HTML5, CSS3 
-- **App Architectures:** Building both Single Page Applications (SPA) and Multi Page Applications (MPA) using modern JavaScript frameworks and libraries
-- **Frameworks & Libraries:** Express.js, Handlebars
-- **Front-end:** HTML5, CSS3, Handlebars
-- **Back-end:** Node.js, Express.js
-- **Databases:** MongoDB (Mongoose), Firebase
-- **API Development:** Designing and developing robust RESTful services and APIs with Express.js and MongoDB
-- **Testing & Automation:** Playwright, Mocha, Chai
-- **Version Control:** Git, GitHub
-- **Other:** API Integration, Web development best practices
-- **MERN Stack:** Full-stack JavaScript development using MongoDB, Express.js, React, and Node.js
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)](https://react.dev/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)](https://angular.dev/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+### Backend and Data
 
-## 🌱 Current & Upcoming Studies:
-- **React** – Deepening knowledge in hooks, performance optimization, and scalable component design ⚛️
-- **HTML** – Semantic structure, accessible forms (ARIA), microdata/SEO, and performance-savvy markup. 🧱
-- **CSS** – Modern layout (Flexbox/Grid), container queries, cascade layers, custom properties, animations, and scalable architecture (BEM/ITCSS). 🎨
-- **Angular** – Exploring component-based architecture and state management 🎯
-- **TypeScript** – Learning advanced typing, generics, and best practices 🏗️
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=fff)](https://firebase.google.com/)
 
+### Testing and Tools
 
-## 📫 How to Reach Me:
-- Email: [martin.marinov10@yahoo.com](mailto:martin.marinov10@yahoo.com)
-- GitHub: [MarinovM03](https://github.com/MarinovM03)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=fff)](https://playwright.dev/)
+[![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=fff)](https://mochajs.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/)
 
-<br><br>
+## Current Focus
 
-## 🐍 A Snake Eating My Contributions Graph
-	
+- Building a complete Angular application to strengthen my experience across both major frontend frameworks.
+- Deepening my TypeScript knowledge and writing safer, more scalable application code.
+- Deploying projects earlier, gathering feedback, and improving them around real user needs.
+- Expanding my experience with production workflows, automated testing, and new technologies.
+
+## Connect
+
+- [GitHub](https://github.com/MarinovM03)
+- [Email](mailto:martin.marinov10@yahoo.com)
+
+## Contribution Activity
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarinovM03/MarinovM03/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/MarinovM03/MarinovM03/main/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph animation" />
 </p>
 
-</br></br>
+<div align="center">
 
+Always learning, building, and looking for the next useful problem to solve.
 
-Thanks for visiting! Feel free to connect — I'm always open to collaboration and building something awesome together. 🚀🚀🚀
+</div>
